@@ -11,6 +11,7 @@ config = {
     // Configure your URL and mail settings here
     production: {
         url: 'http://dank.life',
+        fileStorage: false,
         mail: {},
         database: {
             client: 'pg',
