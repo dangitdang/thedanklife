@@ -31,7 +31,7 @@
     },
     "engineStrict": true,
     "dependencies": {
-        "'aws-sdk-apis":"latest",
+        "aws-sdk-apis":"latest",
         "xml2js":"latest",
         "xmlbuilder":"latest",
         "pg":"latest",
